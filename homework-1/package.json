@@ -1,0 +1,17 @@
+{
+  "name": "homework-1",
+  "version": "1.0.0",
+  "description": "Node JS homework",
+  "main": "index.js",
+  "dependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon  index.js",
+    "debug": "nodemon --inspect index.js"
+  },
+  "author": "Fedorhenko Anton",
+  "license": "ISC"
+}
